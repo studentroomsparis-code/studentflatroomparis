@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Rooms Paris | Furnished Rooms from 680€/month – No Guarantor</title>
+<meta name="description" content="Find furnished student rooms near Paris universities. Gagny & Rosny-sous-Bois. From 680€/month, bills & WiFi included. Erasmus welcome. Book online now.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.studentflatroomparis.com/">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"LocalBusiness","name":"Student Flat Room Paris","url":"https://www.studentflatroomparis.com","telephone":"+33760790003","email":"studentroomsparis@gmail.com","address":{"@type":"PostalAddress","streetAddress":"11 Rue de Valenciennes","addressLocality":"Gagny","postalCode":"93220","addressCountry":"FR"}}
+</script>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--noir:#0f0e0d;--or:#c9a84c;--creme:#f5f0e8;--gris:#6b6560;--blanc:#ffffff}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'DM Sans',sans-serif;background:var(--creme);color:var(--noir)}
+nav{position:fixed;top:0;left:0;right:0;z-index:999;background:rgba(15,14,13,0.97);display:flex;align-items:center;justify-content:space-between;padding:0 5vw;height:64px}
+.logo{font-family:'Playfair Display',serif;font-size:1rem;font-weight:700;color:var(--or);text-decoration:none}
+.nav-cta{background:var(--or);color:var(--noir);padding:0.5rem 1.2rem;border-radius:2px;font-weight:700;font-size:0.82rem;text-decoration:none}
+.hero{min-height:100vh;background:var(--noir);display:flex;align-items:center;padding:100px 8vw 6rem}
+h1{font-family:'Playfair Display',serif;font-size:clamp(2.2rem,5vw,4rem);font-weight:900;color:#fff;line-height:1.1;margin-bottom:1.5rem}
+h1 span{color:var(--or)}
+.sub{color:rgba(255,255,255,0.6);font-size:1rem;line-height:1.7;margin-bottom:2rem;max-width:500px}
+.pills{display:flex;flex-wrap:wrap;gap:0.5rem;margin-bottom:2rem}
+.pill{background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.12);color:rgba(255,255,255,0.8);padding:0.35rem 0.8rem;border-radius:20px;font-size:0.75rem}
+.btns{display:flex;gap:1rem;flex-wrap:wrap}
+.btn1{background:var(--or);color:var(--noir);padding:0.9rem 2rem;border-radius:3px;font-weight:700;font-size:0.85rem;text-decoration:none}
+.btn2{background:transparent;color:#fff;border:1px solid rgba(255,255,255,0.25);padding:0.9rem 2rem;border-radius:3px;font-size:0.85rem;text-decoration:none}
+.trust{background:var(--or);padding:1rem 5vw;display:flex;align-items:center;justify-content:center;gap:2rem;flex-wrap:wrap}
+.ti{color:var(--noir);font-weight:600;font-size:0.83rem}
+section{padding:5rem 5vw}
+.sl{font-size:0.7rem;font-weight:700;letter-spacing:0.2em;text-transform:uppercase;color:var(--or);margin-bottom:0.8rem}
+h2{font-family:'Playfair Display',serif;font-size:clamp(1.7rem,3vw,2.5rem);font-weight:700;margin-bottom:1rem}
+.ss{color:var(--gris);font-size:0.95rem;line-height:1.7;max-width:540px;margin-bottom:2.5rem}
+.rooms{background:var(--blanc)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:1.4rem}
+.card{border:1px solid rgba(0,0,0,0.08);border-radius:4px;overflow:hidden;background:#fff}
+.ci{height:170px;background:linear-gradient(135deg,#0f0e0d,#2a2520);display:flex;align-items:center;justify-content:center;font-size:2.2rem;position:relative}
+.cb{position:absolute;top:0.8rem;left:0.8rem;background:#2d6a4f;color:#fff;font-size:0.65rem;font-weight:700;padding:0.2rem 0.5rem;border-radius:2px;text-transform:uppercase}
+.cd{padding:1.3rem}
+.cl{font-size:0.7rem;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--or);margin-bottom:0.3rem}
+.ct{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:700;margin-bottom:0.7rem}
+.tags{display:flex;flex-wrap:wrap;gap:0.35rem;margin-bottom:1rem}
+.tag{background:rgba(201,168,76,0.08);border:1px solid rgba(201,168,76,0.2);color:var(--gris);font-size:0.7rem;padding:0.2rem 0.5rem;border-radius:20px}
+.cf{display:flex;align-items:center;justify-content:space-between;padding-top:0.9rem;border-top:1px solid rgba(0,0,0,0.07)}
+.price{font-family:'Playfair Display',serif;font-size:1.2rem;font-weight:700}
+.price span{font-size:0.72rem;color:var(--gris);font-family:'DM Sans',sans-serif;font-weight:400}
+.bk{background:var(--noir);color:#fff;padding:0.55rem 1.1rem;border-radius:2px;font-size:0.75rem;font-weight:600;text-decoration:none;text-transform:uppercase}
+.how{background:var(--noir)}
+.how h2{color:#fff}
+.how .ss{color:rgba(255,255,255,0.5)}
+.steps{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:1.5rem}
+.step{padding:1.8rem;border:1px solid rgba(201,168,76,0.15);border-radius:4px}
+.sn{font-family:'Playfair Display',serif;font-size:3rem;font-weight:900;color:rgba(201,168,76,0.15);margin-bottom:0.6rem}
+.si{font-size:1.5rem;margin-bottom:0.6rem}
+.step h3{font-family:'Playfair Display',serif;font-size:1rem;color:#fff;margin-bottom:0.5rem}
+.step p{color:rgba(255,255,255,0.5);font-size:0.85rem;line-height:1.6}
+.ig{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:1rem}
+.ic{background:#fff;border:1px solid rgba(0,0,0,0.07);padding:1.4rem;border-radius:4px;text-align:center}
+.ii{font-size:1.7rem;margin-bottom:0.5rem}
+.il{font-weight:600;font-size:0.83rem}
+.id{font-size:0.73rem;color:var(--gris);margin-top:0.2rem}
+.ug{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:0.9rem}
+.uc{display:flex;align-items:center;justify-content:space-between;padding:0.9rem 1.3rem;border:1px solid rgba(0,0,0,0.08);border-radius:3px}
+.un{font-weight:600;font-size:0.83rem}
+.ur{font-family:'Playfair Display',serif;font-weight:700;color:var(--or)}
+.faq-list{max-width:740px}
+.fi{border-bottom:1px solid rgba(0,0,0,0.1);padding:1.3rem 0}
+.fq{font-weight:600;font-size:0.92rem;margin-bottom:0.5rem}
+.fa{color:var(--gris);font-size:0.86rem;line-height:1.7}
+.cs{background:var(--noir);display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:center;padding:5rem 5vw}
+.cs h2{color:#fff}
+.cs .ss{color:rgba(255,255,255,0.5)}
+.cc{display:grid;gap:0.9rem}
+.ccard{background:rgba(255,255,255,0.05);border:1px solid rgba(201,168,76,0.15);border-radius:4px;padding:1.3rem}
+.ccl{font-size:0.66rem;font-weight:700;letter-spacing:0.15em;text-transform:uppercase;color:var(--or);margin-bottom:0.3rem}
+.ccv{color:#fff;font-size:0.9rem}
+.cca{color:rgba(255,255,255,0.5);font-size:0.78rem;margin-top:0.2rem;line-height:1.5}
+.wa{display:inline-flex;align-items:center;gap:0.5rem;background:#25D366;color:#fff;padding:0.9rem 1.8rem;border-radius:3px;font-weight:700;font-size:0.85rem;text-decoration:none;margin-top:1.3rem}
+footer{background:#080807;color:rgba(255,255,255,0.4);padding:1.5rem 5vw;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;font-size:0.75rem}
+footer a{color:var(--or);text-decoration:none}
+@media(max-width:700px){.cs{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<nav><a href="/" class="logo">Student Flat Room Paris</a><a href="#contact" class="nav-cta">Book Now</a></nav>
+<header class="hero"><div>
+<h1>Student Rooms<br>Near <span>Paris</span><br>from 680€/month</h1>
+<p class="sub">Furnished coliving rooms for Erasmus & international students. No French guarantor. Bills & WiFi included. 20 min from Paris by RER.</p>
+<div class="pills"><span class="pill">✓ No guarantor</span><span class="pill">✓ Bills included</span><span class="pill">✓ WiFi included</span><span class="pill">✓ Book online</span><span class="pill">✓ 14 rooms Gagny</span><span class="pill">✓ 6 rooms Rosny</span></div>
+<div class="btns"><a href="#rooms" class="btn1">View All Rooms ↓</a><a href="https://wa.me/33760790003" class="btn2" target="_blank">💬 WhatsApp</a></div>
+</div></header>
+<div class="trust"><div class="ti">🏠 20 Rooms Available</div><div class="ti">🌍 International Students Welcome</div><div class="ti">📱 24/7 WhatsApp Support</div><div class="ti">💳 Secure Online Booking</div></div>
+<section class="rooms" id="rooms">
+<p class="sl">Our Properties</p><h2>Available Rooms & Studios</h2>
+<p class="ss">All rooms fully furnished. Bills and WiFi included. 20–35 min from central Paris by RER.</p>
+<div class="grid">
+<article class="card"><div class="ci">🛏️<span class="cb">Available</span></div><div class="cd"><p class="cl">Gagny — 93220</p><h3 class="ct">Luxury Room — Gagny</h3><div class="tags"><span class="tag">WiFi</span><span class="tag">Bed 140×190</span><span class="tag">Desk</span><span class="tag">Wardrobe</span><span class="tag">Bills included</span></div><div class="cf"><div><div class="price">680€ <span>/month</span></div></div><a href="https://form.jotform.com/253232931009147" class="bk" target="_blank">Book</a></div></div></article>
+<article class="card"><div class="ci" style="background:linear-gradient(135deg,#1a1510,#2a2015)">🏠<span class="cb">Available</span></div><div class="cd"><p class="cl">Gagny — 93220</p><h3 class="ct">Deluxe Room — Gagny</h3><div class="tags"><span class="tag">WiFi</span><span class="tag">Bed 140×190</span><span class="tag">Desk</span><span class="tag">Living room</span></div><div class="cf"><div><div class="price">900€ <span>/month</span></div></div><a href="https://www.paypal.com/ncp/payment/CVWUUUMRGLLZN" class="bk" target="_blank">Book</a></div></div></article>
+<article class="card"><div class="ci" style="background:linear-gradient(135deg,#0d1520,#1a2535)">🏢<span class="cb">Available</span></div><div class="cd"><p class="cl">Gagny — 93220</p><h3 class="ct">Studio Apartment — Gagny</h3><div class="tags"><span class="tag">WiFi</span><span class="tag">Kitchenette</span><span class="tag">Bathroom</span></div><div class="cf"><div><div class="price">900€ <span>/month</span></div></div><a href="https://www.paypal.com/ncp/payment/CVWUUUMRGLLZN" class="bk" target="_blank">Book</a></div></div></article>
+<article class="card"><div class="ci" style="background:linear-gradient(135deg,#150d1a,#251525)">🛏️<span class="cb">Available</span></div><div class="cd"><p class="cl">Rosny-sous-Bois — 93110</p><h3 class="ct">Luxury Room — Rosny</h3><div class="tags"><span class="tag">WiFi</span><span class="tag">Bed 140×190</span><span class="tag">Desk</span><span class="tag">Bills included</span></div><div class="cf"><div><div class="price">680€ <span>/month</span></div></div><a href="https://www.paypal.com/ncp/payment/EXZ4B6F5XM79L" class="bk" target="_blank">Book</a></div></div></article>
+<article class="card"><div class="ci" style="background:linear-gradient(135deg,#0d1a12,#152515)">✨<span class="cb">Available</span></div><div class="cd"><p class="cl">Rosny-sous-Bois — 93110</p><h3 class="ct">Premium Room — Rosny</h3><div class="tags"><span class="tag">WiFi</span><span class="tag">Bed 140×190</span><span class="tag">Desk</span><span class="tag">Bills included</span></div><div class="cf"><div><div class="price">750€ <span>/month</span></div></div><a href="https://www.paypal.com/ncp/payment/JXYQ8C9AJUF2L" class="bk" target="_blank">Book</a></div></div></article>
+<article class="card"><div class="ci" style="background:linear-gradient(135deg,#1a1200,#2a2010)">👥<span class="cb" style="background:#b33a3a">Ask us</span></div><div class="cd"><p class="cl">Paris intra-muros</p><h3 class="ct">Private Paris Residence</h3><div class="tags"><span class="tag">Central</span><span class="tag">Furnished</span><span class="tag">Bills included</span></div><div class="cf"><div><div class="price">800–1100€ <span>/month</span></div></div><a href="https://wa.me/33760790003" class="bk" target="_blank">Ask</a></div></div></article>
+</div></section>
+<section class="how" id="how">
+<p class="sl">Simple Process</p><h2>How to Book in 3 Steps</h2><p class="ss">Fast, transparent, 100% online.</p>
+<div class="steps">
+<div class="step"><div class="sn">01</div><div class="si">🔍</div><h3>Choose Your Room</h3><p>Browse available rooms. All prices are all-inclusive.</p></div>
+<div class="step"><div class="sn">02</div><div class="si">📋</div><h3>Send Your Request</h3><p>Fill the booking form or WhatsApp us. We reply within 24 hours.</p></div>
+<div class="step"><div class="sn">03</div><div class="si">🔑</div><h3>Move In</h3><p>Pay securely online. Sign your contract. Collect your keys.</p></div>
+</div></section>
+<section id="included">
+<p class="sl">All-Inclusive Rental</p><h2>Everything Included in Your Rent</h2><p class="ss">One fixed monthly payment. No hidden fees.</p>
+<div class="ig">
+<div class="ic"><div class="ii">🛋️</div><div class="il">Furnished Room</div><div class="id">Bed, desk, wardrobe</div></div>
+<div class="ic"><div class="ii">💡</div><div class="il">Electricity</div><div class="id">All utilities covered</div></div>
+<div class="ic"><div class="ii">💧</div><div class="il">Water & Heating</div><div class="id">Hot water included</div></div>
+<div class="ic"><div class="ii">📶</div><div class="il">High-Speed WiFi</div><div class="id">Fibre internet</div></div>
+<div class="ic"><div class="ii">🍳</div><div class="il">Shared Kitchen</div><div class="id">Fully equipped</div></div>
+<div class="ic"><div class="ii">🧺</div><div class="il">Laundry Access</div><div class="id">On-site facilities</div></div>
+<div class="ic"><div class="ii">📱</div><div class="il">24/7 Support</div><div class="id">WhatsApp anytime</div></div>
+<div class="ic"><div class="ii">🚫</div><div class="il">No Guarantor</div><div class="id">International students OK</div></div>
+</div></section>
+<section style="background:var(--blanc)" id="universities">
+<p class="sl">Near Top Universities</p><h2>Rooms Close to Paris Universities</h2><p class="ss">All residences connected to Paris universities by RER and Metro.</p>
+<div class="ug">
+<div class="uc"><span class="un">Sorbonne Université</span><span class="ur">from 680€</span></div>
+<div class="uc"><span class="un">Université Paris Cité</span><span class="ur">from 680€</span></div>
+<div class="uc"><span class="un">Sciences Po Paris</span><span class="ur">from 650€</span></div>
+<div class="uc"><span class="un">Université Paris-Saclay</span><span class="ur">from 680€</span></div>
+<div class="uc"><span class="un">Paris Nanterre</span><span class="ur">from 630€</span></div>
+<div class="uc"><span class="un">Paris Dauphine</span><span class="ur">from 680€</span></div>
+<div class="uc"><span class="un">Gustave Eiffel</span><span class="ur">from 640€</span></div>
+<div class="uc"><span class="un">ESSEC Business School</span><span class="ur">from 680€</span></div>
+<div class="uc"><span class="un">HEC Paris</span><span class="ur">from 680€</span></div>
+<div class="uc"><span class="un">IFA Paris / ESMOD</span><span class="ur">from 680€</span></div>
+<div class="uc"><span class="un">KEDGE Business School</span><span class="ur">from 680€</span></div>
+<div class="uc"><span class="un">Cité Universitaire</span><span class="ur">from 680€</span></div>
+</div></section>
+<section id="faq">
+<p class="sl">FAQ</p><h2>Frequently Asked Questions</h2>
+<div class="faq-list">
+<div class="fi"><div class="fq">Do I need a French guarantor?</div><div class="fa">No. International and Erasmus students are welcome to apply directly. No French guarantor required.</div></div>
+<div class="fi"><div class="fq">Are bills included in the rent?</div><div class="fa">Yes. Electricity, water, heating and WiFi are all included. One fixed price every month.</div></div>
+<div class="fi"><div class="fq">What is the minimum rental period?</div><div class="fa">We offer flexible contracts from 1 month to 12 months.</div></div>
+<div class="fi"><div class="fq">How far are the rooms from central Paris?</div><div class="fa">Gagny is 25–35 min by RER E. Rosny-sous-Bois is 20–30 min by RER A.</div></div>
+<div class="fi"><div class="fq">Can I book online before arriving in France?</div><div class="fa">Yes. The entire process is online: form, secure PayPal payment, digital contract.</div></div>
+</div></section>
+<section class="cs" id="contact">
+<div><p class="sl">Get In Touch</p><h2>Ready to Book?</h2><p class="ss">Contact us on WhatsApp for immediate availability.</p>
+<a href="https://wa.me/33760790003" class="wa" target="_blank">💬 WhatsApp: +33 7 60 79 00 03</a></div>
+<div class="cc">
+<div class="ccard"><div class="ccl">📍 Residence Gagny</div><div class="ccv">14 rooms available</div><div class="cca">11 Rue de Valenciennes, 93220 Gagny — RER E</div></div>
+<div class="ccard"><div class="ccl">📍 Residence Rosny</div><div class="ccv">6 rooms available</div><div class="cca">36 Rue Clément Ader, 93110 Rosny-sous-Bois — RER A</div></div>
+<div class="ccard"><div class="ccl">📧 Email</div><div class="ccv">studentroomsparis@gmail.com</div></div>
+<div class="ccard"><div class="ccl">📱 WhatsApp</div><div class="ccv">+33 7 60 79 00 03</div><div class="cca">Available 7 days/week</div></div>
+</div></section>
+<footer><div>© 2025 Student Flat Room Paris</div><div><a href="mailto:studentroomsparis@gmail.com">studentroomsparis@gmail.com</a> · <a href="https://wa.me/33760790003">WhatsApp</a></div></footer>
+</body>
+</html>
